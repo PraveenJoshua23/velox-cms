@@ -1,0 +1,6 @@
+# .gitignore
+.env
+database/data.db
+uploads/*
+node_modules/
+.DS_Store
